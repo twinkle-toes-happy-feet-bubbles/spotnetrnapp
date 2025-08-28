@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "454791151972",
+    "project_id": "spotnetapp",
+    "storage_bucket": "spotnetapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454791151972:android:7cf9d5703f13f6b8b07a71",
+        "android_client_info": {
+          "package_name": "com.luceferreddy.Spotnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454791151972-36c9j4eko2s7i4thec4rcb2jmlj03ra3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luceferreddy.Spotnet",
+            "certificate_hash": "529d59ce2d2bea25992b315a15c4902a7134f7e2"
+          }
+        },
+        {
+          "client_id": "454791151972-omtlqghaef1ifv2lvg9b42i4t0p7j3cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC49GyKMhyB_x98QSXpireQdYFmRMLMOlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454791151972-le5ih3q2l1c4fh7ph4fb51phhncgfibt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "454791151972-rfs6h796pbt650gmdh53ed17jos80qqo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.luceferreddy.Spotnet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
